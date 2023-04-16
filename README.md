@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--- 👯 I’m looking to collaborate on ...-->
 <h1>About me</h1>
 - About me: I'm currently working as System Analyst on Continental Tires  and I work mostly with SQL Server and Python.
-<img src="https://1000logos.net/wp-content/uploads/2022/11/Continental-Logo-Emblem.png" alt="Logo Continental" height="20">            
+<img src="https://1000logos.net/wp-content/uploads/2022/11/Continental-Logo-Emblem.png" alt="Logo Continental" height="40">            
 My main activities are: 
               <ul>
                 <li>Analyse databases to troubleshoot issues</li>
