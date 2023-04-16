@@ -21,54 +21,46 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
-      <td>Experiente</td>
-      <td><img src="https://i.imgur.com/fTpzLIQ.png" height="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png" height="50"></td>
+      <td>Experienced</td> 
     </tr>
     <tr>
-      <td>Java</td>
-      <td>Experiente</td>
-      <td><img src="https://i.imgur.com/xn1nLrN.png" height="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" height="50"></td>
+      <td>Experienced</td>
     </tr>
     <tr>
-      <td>JS</td>
-      <td>Aprendendo</td>
-      <td><img src="https://i.imgur.com/9tWzaV8.png" height="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" height="50"></td>
+      <td>Learning</td>
     </tr>
     <tr>
-      <td>HTML5 e CSS3</td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" height="50"></td>
+      <td>Beginner</td>
+    </tr>
+    <tr>
+      <td><img src="https://wyday.com/images/lm/langs/vba.1.svg" height="50"></td>
+      <td>Experienced</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-285209.png" height="50"></td>
+      <td>Experienced</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50"></td>
+      <td>Experienced</td>
+      
+    </tr>
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="50"></td>
+      <td>Novice</td>
+    </tr>
+    <tr>
+      <td>Learning</td>
+      <td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="50"></td>
+    </tr>
+    <tr>
+      <td><img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" height="50"></td>
       <td>Aprendiz</td>
-      <td><img src="https://i.imgur.com/1nJoNgM.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>VB</td>
-      <td>Experiente</td>
-      <td><img src="https://i.imgur.com/BMBVv6r.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>Power BI</td>
-      <td>Experiente</td>
-      <td><img src="https://i.imgur.com/5ZLdwE3.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>SQL Server</td>
-      <td>Experiente</td>
-      <td><img src="https://i.imgur.com/TcAdFdi.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td>Aprendiz</td>
-      <td><img src="https://i.imgur.com/3o4Pv7e.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>PostgreSQL</td>
-      <td>Novato</td>
-      <td><img src="https://i.imgur.com/xzfoA2Q.png" height="50"></td>
-    </tr>
-    <tr>
-      <td>SQLite</td>
-      <td>Aprendiz</td>
-      <td><img src="https://i.imgur.com/nbD8JXZ.png" height="50"></td>
     </tr>
   </tbody>
 </table>
