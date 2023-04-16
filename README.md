@@ -55,8 +55,8 @@ Here are some ideas to get you started:
       <td>Novice</td>
     </tr>
     <tr>
-      <td>Learning</td>
       <td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="50"></td>
+      <td>Learning</td>
     </tr>
     <tr>
       <td><img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" height="50"></td>
