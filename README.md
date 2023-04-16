@@ -33,8 +33,9 @@ Here are some ideas to get you started:
       <td>Learning</td>
     </tr>
     <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height="50"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" height="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height="50">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" height="50">
+      </td>
       <td>Beginner</td>
     </tr>
     <tr>
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="50"></td>
       <td>Experienced</td>
-      
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="50"></td>
