@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <td>Experienced</td>
     </tr>
     <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-285209.png" height="50"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="50"></td>
       <td>Experienced</td>
     </tr>
     <tr>
