@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td><img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" height="50"></td>
-      <td>Aprendiz</td>
+      <td>Learning</td>
     </tr>
   </tbody>
 </table>
